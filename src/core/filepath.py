@@ -1,0 +1,5 @@
+ICON_PATH="./src/assets/icon.png"
+PLAYER_PATH="./src/assets/player.png"
+ENEMY_PATH="./src/assets/enemy.png"
+BACKGROUND_PATH="./src/assets/bg.png"
+BULLET_PATH="./src/assets/bullet.png"
